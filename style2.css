@@ -1,0 +1,33 @@
+section{
+    background-color: rgb(204, 197, 197);
+    width: 1000px;
+    height: 500px;
+}
+.head_span{
+    border: 2px solid white;
+    margin: 4px;
+    padding: 5px;
+}
+.second_div , .third_div , .fourth_div{
+    margin: 30px;
+    border: 3px solid white;
+    border-radius: 30px;
+    
+}
+.small_photo{
+    width: 100%;
+    margin: 20px;
+    
+    
+    
+}
+.other_photo{
+    display: flex;
+    width: 40px;
+    margin-right: 20px ;
+    
+}
+.main_div{
+    display: flex;
+    gap: 50px;
+}

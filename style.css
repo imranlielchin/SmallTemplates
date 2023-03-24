@@ -1,0 +1,50 @@
+
+.section{
+    width: 1400px;
+    height: 600px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    transform: translate(20%,30%);
+    
+}
+.text{
+    color: white;
+    width: 350px;
+    margin: 20px;
+}
+.main_div{
+    background-color: rgb(46, 4, 46);
+    width: 700px;
+    height: 300px;
+    display: flex;
+    position: absolute;
+    transform: translate(0%,50%);
+
+}
+
+.number_span{
+    display: block;
+}
+.numbers_text{
+    display: flex;
+    
+}
+.second_text{
+    margin-right: 15px;
+}
+.image{
+    width: 350px;
+    height: 300px;
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+.word_span{
+    opacity: 0.8;
+}
+.different_word{
+    color: purple;
+}
